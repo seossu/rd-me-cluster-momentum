@@ -1,0 +1,13 @@
+# 원본 데이터 (용량·라이선스 문제로 미포함, data/README.md 참고)
+data/*
+!data/README.md
+
+# 분석 스크립트 중간 산출물
+research/*.pkl
+
+# Python / OS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
